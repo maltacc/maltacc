@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Maggie Guo!</h1>
-- 💻 Prev SWE Intern @ **Miovision, PointClickCare, & BlackBerry**
+<h1>Hi 👋, I'm Maggie Guo!</h1>
+
+- 💻 Prev SWE Intern @ **Miovision, PointClickCare,** & **BlackBerry**
 
 - 🤝 Prev URA @ [the Augmented Intelligence Lab](https://edithlaw.ca/)
 
-- ✉️ Reach me at **maggie.guo@uwaterloo.ca**
-
 - ⚡ Fun fact: **I love solving sudoku variants, art history, and climbing!**
 
-<h3 align="left">Connect with me:</h3>
+- ✉️ Reach me at **maggie.guo@uwaterloo.ca**
+
 <p align="left">
 </p>
 
