@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Maggie Guo!</h1>
 
-- 💻 Prev SWE Intern @ **Miovision, PointClickCare,** & **BlackBerry**
+- 💻 Prev SWE Intern @ **Microsoft, Miovision, PointClickCare,** & **BlackBerry**
 
 - 🤝 Prev URA @ [the Augmented Intelligence Lab](https://edithlaw.ca/)
 
